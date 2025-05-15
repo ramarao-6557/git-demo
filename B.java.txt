@@ -1,6 +1,12 @@
 public class B{
 public static void main(String [] args)
 {
-System.out.println("Ramarao");
+System.out.println("Welcome to Github");
+B b=new B();
+b.print();
 }
+
+public void print(){
+ystem.out.println("ramarao");
+
 }
